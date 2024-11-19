@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name         Bol.com Order Export
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Export Bol.com orders to CSV
 // @author       You
 // @match        https://www.bol.com/nl/rnwy/account/bestellingen/overzicht
+// @updateURL    https://github.com/IeuanK/BolExporter/blob/main/userscript.js
+// @downloadURL  https://github.com/IeuanK/BolExporter/blob/main/userscript.js
+// @supportURL   https://github.com/IeuanK/BolExporter/issues
 // @grant        none
 // ==/UserScript==
 
