@@ -1,10 +1,11 @@
 # Bol.com Exporter
 CSV exporter user script for Bol.com
 
-### Other scripts
+### My scripts
 
-- [https://github.com/IeuanK/AmazonExporter](Amazon Exporter)
-- [https://github.com/IeuanK/ICS-Exporter](ICS Cards Exporter)
+- [Amazon Exporter](https://github.com/IeuanK/AmazonExporter)
+- [Bol.com Exporter](https://github.com/IeuanK/BolExporter)
+- [ICS Cards Exporter](https://github.com/IeuanK/ICS-Exporter)
 
 ### Installation & usage
 
