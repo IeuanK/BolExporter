@@ -9,6 +9,6 @@ CSV exporter user script for Bol.com
 
 ### Installation & usage
 
-- Open the userscript URL: https://github.com/IeuanK/BolExporter/blob/main/BolExporter.user.js
+- Open the userscript URL: https://github.com/IeuanK/BolExporter/raw/refs/heads/main/BolExporter.user.js
 - Install userscript, either using your browser or an extension like TamperMonkey  
 - TODO: Add further instructions and screenshots
